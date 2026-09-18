@@ -2,7 +2,7 @@
 A hands-on cybersecurity project covering Phase 1 (Passive Footprinting &amp; OSINT) and Phase 2 (Active Network Discovery) on networkwalks.com and a virtualized 10.0.0.0/24 LAN using Kali Linux, Nmap/Zenmap, and DNS enumeration tools
 
 # Final Report 👇:
-[Week-2-FootPrinting-NetworkScanning-FinalReport.docx.pdf](https://github.com/user-attachments/files/32380645/Week-2-FootPrinting-NetworkScanning-FinalReport.docx.pdf)
+[Week-2-FootPrinting-NetworkScanning-FinalReport.docx.pdf](https://github.com/user-attachments/files/32381802/Week-2-FootPrinting-NetworkScanning-FinalReport.docx.pdf)
 
 # LinkedIn Post 👇:
 https://lnkd.in/p/gSPdxRxU
